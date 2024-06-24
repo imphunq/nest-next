@@ -1,0 +1,4 @@
+.sidebar {
+    position: fixed;
+    height: calc(100% - 64px);
+}
